@@ -1,10 +1,6 @@
 ﻿
 /* ----------------- pagination ----------------- */
-.agination{
-    position: absolute;
-    right: 0;
-    top: -5px;
-}
+/* 321 */
 #report-list-table{
     position: relative;
 }
